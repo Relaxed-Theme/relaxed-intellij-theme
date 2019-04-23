@@ -3,5 +3,31 @@
   "dark": true,
   "author": "Michael Kühnel",
   "editorScheme": "/Relaxed_Theme.xml",
-  "ui": {}
+  "ui": {
+    "*": {
+      "background": "#2B2E35",
+      "foreground": "D9D9D9"
+    },
+    "Panel": {
+      "background": "#2D3037"
+    },
+    "EditorTabs": {
+      "selectedBackground": "#2F333A",
+      "underlineColor": "#616161",
+      "inactiveMaskColor": "#2B2E35",
+      "borderColor": "#2B2E35"
+    },
+    "Tree": {
+      "selectionBackground": "#25252B",
+      "selectionInactiveBackground": "#37373D"
+    },
+    "FileColor": {
+      "Yellow": "#2E3139",
+      "Green": "#909D62",
+      "Blue": "#698698",
+      "Violet": "#B06597",
+      "Orange": "#BB5653",
+      "Rose": "#C9DFFF"
+    }
+  }
 }
