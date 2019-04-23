@@ -1,0 +1,32 @@
+<idea-plugin>
+  <id>com.relaxed.theme</id>
+  <name>Relaxed Theme</name>
+  <version>1.0</version>
+  <vendor email="mail@michael-kuehnel.de" url="https://michael-kuehnel.de">Michael Kühnel</vendor>
+
+  <description><![CDATA[
+      A relaxed WebStorm theme to take a more relaxed view of things.
+    ]]></description>
+
+  <change-notes><![CDATA[
+      Initial release of Relaxed Theme for WebStorm
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="191"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="00876c7f-66e4-4579-970b-b0b5a3f49a5a" path="/Relaxed_Theme.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
