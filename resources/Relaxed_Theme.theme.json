@@ -19,7 +19,23 @@
     },
     "Tree": {
       "selectionBackground": "#25252B",
-      "selectionInactiveBackground": "#37373D"
+      "selectionInactiveBackground": "#37373D",
+      "rowHeight": "22"
+    },
+    "ToolWindow": {
+      "header.font.size": "13",
+      "Header.inactiveBackground": "#2B2E35"
+    },
+    "List": {
+      "selectionBackground": "#698698"
+    },
+    "Plugins": {
+      "Button": {
+        "installFillBackground": "#909d62",
+        "installFillForeground": "#d8d8d8",
+        "installBorderColor": "#909d62",
+        "installForeground": "#909d62"
+      }
     },
     "FileColor": {
       "Yellow": "#2E3139",
@@ -28,6 +44,28 @@
       "Violet": "#B06597",
       "Orange": "#BB5653",
       "Rose": "#C9DFFF"
+    }
+  },
+  "icons": {
+    "ColorPalette": {
+      "Actions.Grey": "#d8d8d8",
+      "Actions.Red": "#bb5653",
+      "Actions.Yellow": "#eac179",
+      "Actions.Green": "#909d62",
+      "Actions.Blue": "#698698",
+      "Actions.GreyInline.Dark": "#626262",
+
+      "Objects.Grey": "#d8d8d8",
+      "Objects.RedStatus": "#bb5653",
+      "Objects.Red": "#bb5653",
+      "Objects.Pink": "#bb5653",
+      "Objects.Yellow": "#eac179",
+      "Objects.Green": "#909d62",
+      "Objects.Blue": "#698698",
+      "Objects.Purple": "#b06597",
+      "Objects.BlackText": "#141414",
+      "Objects.YellowDark": "#eac179",
+      "Objects.GreenAndroid": "#909d62"
     }
   }
 }
