@@ -1,5 +1,7 @@
 <scheme name="Relaxed Theme" version="142" parent_scheme="Darcula">
+
   <colors>
+
     <option name="FILESTATUS_UNKNOWN" value="698698" />
     <option name="FILESTATUS_ADDED" value="909d62" />
     <option name="FILESTATUS_COPIED" value="778251" />
@@ -23,10 +25,29 @@
     <option name="MODIFIED_LINES_COLOR" value="eac179" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="d8d8d8" />
 
-    <option name="GUTTER_BACKGROUND" value="343a43" />
+    <option name="GUTTER_BACKGROUND" value="2e333b" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="343a43" />
+
+    <option name="LINE_NUMBERS_COLOR" value="6363639d" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="808080" />
+
+    <option name="CARET_COLOR" value="d8d8d8" />
+    <option name="CARET_ROW_COLOR" value="353a44" />
+
+    <option name="WHITESPACES" value="6363639d" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="6363639d" />
 
   </colors>
+
   <attributes>
+
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="d9d9d9" />
+        <option name="BACKGROUND" value="2e333b" />
+      </value>
+    </option>
+
     <option name="DIFF_CONFLICT">
       <value>
         <option name="BACKGROUND" value="343a43" />
@@ -51,6 +72,7 @@
         <option name="ERROR_STRIPE_COLOR" value="eac179" />
       </value>
     </option>
+
   </attributes>
 
 </scheme>
