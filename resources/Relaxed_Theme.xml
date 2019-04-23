@@ -1,2 +1,21 @@
 <scheme name="Relaxed Theme" version="142" parent_scheme="Darcula">
+<colors>
+  <option name="FILESTATUS_UNKNOWN" value="698698" />
+  <option name="FILESTATUS_ADDED" value="909d62" />
+  <option name="FILESTATUS_COPIED" value="778251" />
+  <option name="FILESTATUS_DELETED" value="bb5653" />
+  <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="bb5653" />
+  <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="626262" />
+  <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="c35956" />
+  <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="c35956" />
+  <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="c35956" />
+  <option name="FILESTATUS_MERGED" value="698698" />
+  <option name="FILESTATUS_MODIFIED" value="eac179" />
+  <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="eac179" />
+  <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="eac179" />
+  <option name="FILESTATUS_RENAMED" value="eac179" />
+  <option name="FILESTATUS_addedOutside" value="909d62" />
+  <option name="FILESTATUS_changelistConflict" value="c35956" />
+  <option name="FILESTATUS_modifiedOutside" value="eac179" />
+</colors>
 </scheme>
